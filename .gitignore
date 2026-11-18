@@ -1,0 +1,7 @@
+# Loose source images in the project root. The site only uses the copies in assets/.
+/*.png
+/*.jpg
+
+# Editor and tooling folders
+.vscode/
+.playwright-mcp/
